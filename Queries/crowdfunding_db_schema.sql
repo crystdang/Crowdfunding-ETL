@@ -31,3 +31,11 @@ contact_id
 first_name varchar(50)
 last_name varchar(50)
 email varchar(100)
+
+backers
+-
+backer_id pk varchar(5)
+cf_id int fk - campaign.cf_id
+first_name varchar(50)
+last_name varchar(50)
+email varchar(100)
