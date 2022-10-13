@@ -11,7 +11,7 @@ The purpose of this challenge was to assist Independent Funding extract, transfo
 
 
 
-*Below is an image of the table produced when a query is sent for all live campaigns from the campaign table:*
+*Below is an image of the table produced when a query is sent for a count of backers organized by cf_id from the backers table:*
 ![This is an image](https://github.com/crystdang/Crowdfunding-ETL/blob/main/Images/from_backers.png)
 
 
